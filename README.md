@@ -2,6 +2,8 @@
 Github-based fast-to-read blog about dev's daily routine challenges
 
 <!-- Update Below -->
+#4 [Automatization for github-based blog](https://github.com/vtcaregorodtcev/2minsDevsNotes/issues/4)
+
 #3 [Remix is like ember but only it's react and SSR as well](https://github.com/vtcaregorodtcev/2minsDevsNotes/issues/3)
 
 #2 [How and why to set up a hybrid fake server?](https://github.com/vtcaregorodtcev/2minsDevsNotes/issues/2)
