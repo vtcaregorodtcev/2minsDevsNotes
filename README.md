@@ -2,6 +2,8 @@
 Github-based fast-to-read blog about dev's daily routine challenges
 
 <!-- Update Below -->
+#5 [Making config server serverless with AWS API Gateway and DynamoDB](https://github.com/vtcaregorodtcev/2minsDevsNotes/issues/5)
+
 #4 [Automatization for github-based blog](https://github.com/vtcaregorodtcev/2minsDevsNotes/issues/4)
 
 #3 [Remix is like ember but only it's react and SSR as well](https://github.com/vtcaregorodtcev/2minsDevsNotes/issues/3)
