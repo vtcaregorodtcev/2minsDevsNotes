@@ -6,6 +6,8 @@ Github-based fast-to-read blog about dev's daily routine challenges
 </a><br/><br/>
 
 <!-- Update Below -->
+#6 [Basic D3.js components tree visualization feat. chatGPT](https://github.com/vtcaregorodtcev/2minsDevsNotes/issues/6)
+
 #5 [Making config server serverless with AWS API Gateway and DynamoDB](https://github.com/vtcaregorodtcev/2minsDevsNotes/issues/5)
 
 #4 [Automatization for github-based blog](https://github.com/vtcaregorodtcev/2minsDevsNotes/issues/4)
