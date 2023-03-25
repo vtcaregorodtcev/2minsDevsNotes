@@ -30,7 +30,7 @@ if (isBuild) {
 export default defineConfig({
   server: { port: SERVER_PORT },
   site: BASE_URL,
-  base: "/",
+  base: "/2minsDevsNotes",
   integrations: [
     sitemap(),
     tailwind({
