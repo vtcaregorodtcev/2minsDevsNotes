@@ -3,7 +3,7 @@ external: false
 title: Basic D3.js components tree visualization feat. chatGPT.
 description: ""
 date: 2023-03-15
-ogImagePath: /images/chatgpt_d3js.png
+ogImagePath: /2minsDevsNotes/images/chatgpt_d3js.png
 tags:
   - "101"
   - chatGPT
