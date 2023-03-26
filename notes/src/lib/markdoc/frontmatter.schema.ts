@@ -17,6 +17,7 @@ const baseSchema = z.object({
       required_error: "Required frontmatter missing: tags",
     })
   ),
+  youtubeVideoId: z.ostring(),
 });
 
 /*

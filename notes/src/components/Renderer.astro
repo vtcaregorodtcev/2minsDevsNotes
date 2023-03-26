@@ -8,11 +8,14 @@ import GitHubGistEmbed from "./GitHubGistEmbed.astro";
 import CodeBlock from "./CodeBlock.astro";
 import Heading from "./Heading.astro";
 
+import { YouTube } from "@astro-community/astro-embed-youtube";
+
 type Props = {
   content: Content;
+  youtubeVideoId?: string;
 };
 
-const { content } = Astro.props;
+const { content, youtubeVideoId } = Astro.props;
 
 const components = {
   Heading: {
@@ -42,4 +45,5 @@ const components = {
 };
 ---
 
+{youtubeVideoId && <YouTube id={youtubeVideoId} />}
 <MarkdocRenderer content={content} components={components} />

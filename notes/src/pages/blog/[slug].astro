@@ -52,5 +52,9 @@ const ogImageAbsoluteUrl =
     ogImageAbsoluteUrl={ogImageAbsoluteUrl}
     slot="meta"
   />
-  <Renderer content={content} slot="content" />
+  <Renderer
+    content={content}
+    slot="content"
+    youtubeVideoId={frontmatter.youtubeVideoId}
+  />
 </ContentLayout>
